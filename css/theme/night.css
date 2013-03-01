@@ -169,6 +169,10 @@ body {
   font-size: 113px;
 }
 
+.reveal h2.one-word {
+  font-size: 130px;
+}
+
 .reveal .margin-top {
   margin-top: 50px;
 }
