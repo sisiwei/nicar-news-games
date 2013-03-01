@@ -177,6 +177,10 @@ body {
   margin-top: 50px;
 }
 
+.black {
+  color: black;
+}
+
 
 /*.reveal .slides>section.past {
   display: block;
