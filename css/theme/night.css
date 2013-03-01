@@ -181,6 +181,10 @@ body {
   color: black;
 }
 
+.reveal h3 {
+  font-size: 75px;
+}
+
 
 /*.reveal .slides>section.past {
   display: block;
